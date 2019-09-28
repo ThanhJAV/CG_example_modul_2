@@ -1,3 +1,5 @@
+package CheckPrimeNumbers.src;
+
 import java.util.Scanner;
 
 public class CheckPrimeNumbers {

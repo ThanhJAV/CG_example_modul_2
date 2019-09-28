@@ -1,3 +1,5 @@
+package SayHello.src;
+
 import java.util.Scanner;
 
 public class SayHello {
